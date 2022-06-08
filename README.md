@@ -6,4 +6,4 @@ Demo
 https://bimasakti.baguswp.com/
 
 
-![](images.png)
+![sample](./images.png "sample")
