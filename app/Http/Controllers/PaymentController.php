@@ -53,7 +53,7 @@ class PaymentController extends Controller
 
         $query = Payment::select('payments.*');
         if($search != ""){
-            $query->whereRaw("upper(reff) like '%$search%'");
+            $query->whereRaw("upper(name) like '%$search%'");
         }
         $recordsTotal = $query->count();
         $query->offset($start);
