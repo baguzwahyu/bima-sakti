@@ -5,4 +5,5 @@
 Demo
 https://bimasakti.baguswp.com/
 
-images.png
+
+<img src="images.png" alt="">
