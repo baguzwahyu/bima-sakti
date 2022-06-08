@@ -6,4 +6,4 @@ Demo
 https://bimasakti.baguswp.com/
 
 
-<img src="images.png" alt="">
+![](images.png)
